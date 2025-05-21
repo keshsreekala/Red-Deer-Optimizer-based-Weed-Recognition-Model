@@ -1,4 +1,4 @@
-# Weed-Detection-using-CNN
+# Red Deer Optimizer with Deep Learning Driven Weed Recognition Model Using Agricultural Image Analysis
 Red Deer Optimizer with Deep Learning Driven Weed Recognition Model Using Agricultural Image Analysis. The project combines image data and text data to train a model that can classify images as either "weed" or "non-weed". It provides an end-to-end pipeline, including image preprocessing, text preprocessing, data combination, model training, evaluation.
 
 
